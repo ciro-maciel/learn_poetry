@@ -142,7 +142,6 @@ $ poetry version [major|minor|patch]
 
 ## References
 
-- [Pyhon](https://www.python.org/)
 - [Poetry](https://python-poetry.org/)
 - [Poetry Documentation](https://python-poetry.org/docs)
 
@@ -164,4 +163,4 @@ I am always open to new collaborations and projects. If you have an interesting 
 
 ## License
 
-Complete Guide: Poetry for Python is released under the MIT License.
+Learn: Poetry for Python is released under the MIT License.
