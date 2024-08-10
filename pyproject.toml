@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "learn_poetry"
+version = "0.1.1"
+description = ""
+authors = ["Ciro Cesar Maciel <ciro.maciel@rili.be>"]
+license = "MIT"
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
