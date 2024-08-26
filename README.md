@@ -2,13 +2,25 @@
 
 Welcome to the repository for learning how using Poetry in Python projects. This repository serves as a resource for developers looking to adopt Poetry into their workflows.
 
-## What is Poetry?
+## Course Overview
+
+The **Learn: Poetry for Python** course is designed to help developers seamlessly integrate Poetry into their Python projects. Whether you are new to Poetry or looking to refine your project management skills, this course provides a comprehensive guide to mastering Poetry, a tool that simplifies dependency management, virtual environments, and package publishing.
+
+**Key Highlights of the Course:**
+
+- **Introduction to Poetry**: Understand what Poetry is and why it's a valuable tool for Python developers.
+- **Step-by-Step Installation**: Learn how to install Poetry on your system and verify its version.
+- **Configuration Best Practices**: Discover how to configure Poetry to fit your development needs, including setting up virtual environments within your project.
+- **Project Initialization**: Follow detailed instructions to create new projects using Poetry and manage your project's configuration with ease.
+- **Efficient Dependency Management**: Add, remove, and update dependencies in your projects with simple commands, keeping your environment clean and organized.
+- **Environment Handling**: Manage virtual environments effectively, including creating, listing, and removing them as needed.
+- **Version Control**: Learn how to manage and update your project’s versioning using Poetry, ensuring your packages are always up-to-date.
+
+This course is packed with practical examples, clear explanations, and useful commands that will enable you to leverage Poetry’s full potential in your Python projects. Whether you're building new projects or managing existing ones, **Learn: Poetry for Python** offers the tools and knowledge you need to optimize your development workflow.
+
+### What is Poetry?
 
 Poetry is a dependency and package management tool for Python that makes it easy to create and manage isolated environments and simplify package publishing.
-
-## About the Project
-
-This project aims to provide a solid foundation on how to use Poetry for managing packages and virtual environments in Python. Includes practical examples, step-by-step tutorials, and detailed explanations.
 
 ### Poetry Installation
 
